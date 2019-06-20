@@ -1,8 +1,0 @@
-/home/carlos/Dropbox/Estudos/Programação/04_Uri/1_Iniciante/1001_Extremamente_Basico/1001_Extremamente_Basico.c: In function ‘main’:
-/home/carlos/Dropbox/Estudos/Programação/04_Uri/1_Iniciante/1001_Extremamente_Basico/1001_Extremamente_Basico.c:18:30: error: expected ‘;’ before ‘return’
-         printf("X = %d\n", x)
-                              ^
-                              ;
-/home/carlos/Dropbox/Estudos/Programação/04_Uri/1_Iniciante/1001_Extremamente_Basico/1001_Extremamente_Basico.c:20:9:
-         return 0;
-         ~~~~~~                
